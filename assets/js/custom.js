@@ -1,4 +1,4 @@
 
 function myFunction(){
-documet.getElementsById('demo').InnerHtml="hello world";
+documet.GetElementsById('demo').InnerHtml="hello world";
 }
