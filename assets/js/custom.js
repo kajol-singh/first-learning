@@ -1,4 +1,5 @@
 
-function myFunction(){
-documet.GetElementsById('demo').InnerHtml="hello world";
+
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Paragraph changed.";
 }
